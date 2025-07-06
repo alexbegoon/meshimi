@@ -1,0 +1,241 @@
+(footprint "Wio-SX1262"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "U?"
+		(at 5.67125 -12.2 0)
+		(layer "F.SilkS")
+		(uuid "2eee6ebe-f61d-4744-9a66-232e43301bc9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Module:MODULE12P-1.27-11X11.6MM"
+		(at 5.67125 1.2 0)
+		(layer "F.Fab")
+		(uuid "f331c5ba-b9de-410e-b6a3-2df1450db631")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "56f4fcc7-6bc0-498c-9516-5180d20f0965")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3c1cec22-349c-403c-8dd1-acfda1a6b676")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -0.254 0.254)
+		(end -0.254 -0.127)
+		(stroke
+			(width 0.127)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "0dae59fd-30f8-4811-9d21-432601ddfd23")
+	)
+	(fp_line
+		(start 0 -11)
+		(end 11.6 -11)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "bf20a7b7-23d2-451e-926a-3c2ccb024bce")
+	)
+	(fp_line
+		(start 0 0)
+		(end 0 -11)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "cbee78fe-df84-4b81-89ce-2358c02a5d1c")
+	)
+	(fp_line
+		(start 0.127 0.254)
+		(end -0.254 0.254)
+		(stroke
+			(width 0.127)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "70f26bdd-bbbf-4e89-b781-496085279379")
+	)
+	(fp_line
+		(start 11.6 -11)
+		(end 11.6 0)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "31043fbd-9314-4279-99d7-ef9a7d455c29")
+	)
+	(fp_line
+		(start 11.6 0)
+		(end 0 0)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "c009c2e8-d297-464c-a8c4-d6283d9bc856")
+	)
+	(fp_rect
+		(start 0 -11)
+		(end 11.6 0)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "7c5294c6-025f-4ce1-aec3-a60ddb330046")
+	)
+	(fp_rect
+		(start 0.025 -11)
+		(end 11.6 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "dd858ce7-f7be-4dc0-85f2-9e78e2efcda2")
+	)
+	(fp_circle
+		(center 1.325 -1.85)
+		(end 1.452 -1.85)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "4c81e904-2ed2-47ec-ba6c-a80e05083b14")
+	)
+	(pad "1" smd roundrect
+		(at 1.33 -0.3 90)
+		(size 1.6 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.5)
+		(uuid "4ce927e4-b008-45cf-87a3-80a4200c1152")
+	)
+	(pad "2" smd roundrect
+		(at 2.6 -0.3 90)
+		(size 1.6 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.5)
+		(uuid "b68d9daa-9f3c-48b9-903e-a7e2ca73a3ef")
+	)
+	(pad "3" smd roundrect
+		(at 3.87 -0.3 90)
+		(size 1.6 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.5)
+		(uuid "ba8aae74-8827-4adb-b294-1790117520c5")
+	)
+	(pad "4" smd roundrect
+		(at 5.14 -0.3 90)
+		(size 1.6 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.5)
+		(uuid "fdd63236-be7f-4817-994e-98753e246a51")
+	)
+	(pad "5" smd roundrect
+		(at 6.41 -0.3 90)
+		(size 1.6 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.5)
+		(uuid "5febaffd-3bd0-458a-a228-fc33383437bc")
+	)
+	(pad "6" smd roundrect
+		(at 7.68 -0.3 90)
+		(size 1.6 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.5)
+		(uuid "43e99696-f35e-4697-aec3-57114d23af21")
+	)
+	(pad "7" smd roundrect
+		(at 8.95 -0.3 90)
+		(size 1.6 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.5)
+		(uuid "8912326f-6391-43f8-8365-de3821299455")
+	)
+	(pad "8" smd roundrect
+		(at 10.22 -0.3 90)
+		(size 1.6 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.5)
+		(uuid "63723ced-8be4-4ff5-b9fa-9a07ffcdd256")
+	)
+	(pad "9" smd roundrect
+		(at 6.41 -10.7 90)
+		(size 1.6 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.5)
+		(uuid "1e1b6464-dc01-41ec-88f8-e92b989e7a0f")
+	)
+	(pad "10" smd roundrect
+		(at 5.14 -10.7 90)
+		(size 1.6 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.5)
+		(uuid "2aff30f6-42c1-4525-8147-51b887b642f7")
+	)
+	(pad "11" smd roundrect
+		(at 3.87 -10.7 90)
+		(size 1.6 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.5)
+		(uuid "32d769f6-1682-4ea8-83e4-e40ef6473194")
+	)
+	(pad "12" smd roundrect
+		(at 2.6 -10.7 90)
+		(size 1.6 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.5)
+		(uuid "973021f1-33ea-4103-a40d-2b4c78b56753")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/../../mechanical/models/wio-sx1262.step"
+		(offset
+			(xyz 0 0 0.85)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
