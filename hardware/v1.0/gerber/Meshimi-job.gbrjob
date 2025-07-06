@@ -3,15 +3,15 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "9.0.1-9.0.1-0~ubuntu24.04.1"
+      "Version": "9.0.2"
     },
-    "CreationDate": "2025-04-26T21:29:36+02:00"
+    "CreationDate": "2025-07-06T18:25:15+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "meshtastic",
-      "GUID": "6d657368-7461-4737-9469-632e6b696361",
-      "Revision": "rev?"
+      "Name": "Meshimi",
+      "GUID": "4d657368-696d-4692-9e6b-696361645f70",
+      "Revision": "v1.0"
     },
     "Size": {
       "X": 77.25,
@@ -43,57 +43,57 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "meshtastic-F_Cu.gtl",
+      "Path": "Meshimi-F_Cu.gtl",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "meshtastic-In1_Cu.g1",
+      "Path": "Meshimi-In1_Cu.g1",
       "FileFunction": "Copper,L5,Inr",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "meshtastic-In2_Cu.g2",
+      "Path": "Meshimi-In2_Cu.g2",
       "FileFunction": "Copper,L7,Inr",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "meshtastic-B_Cu.gbl",
+      "Path": "Meshimi-B_Cu.gbl",
       "FileFunction": "Copper,L4,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "meshtastic-F_Paste.gtp",
+      "Path": "Meshimi-F_Paste.gtp",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "meshtastic-B_Paste.gbp",
+      "Path": "Meshimi-B_Paste.gbp",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "meshtastic-F_Silkscreen.gto",
+      "Path": "Meshimi-F_Silkscreen.gto",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "meshtastic-B_Silkscreen.gbo",
+      "Path": "Meshimi-B_Silkscreen.gbo",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "meshtastic-F_Mask.gts",
+      "Path": "Meshimi-F_Mask.gts",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "meshtastic-B_Mask.gbs",
+      "Path": "Meshimi-B_Mask.gbs",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "meshtastic-Edge_Cuts.gm1",
+      "Path": "Meshimi-Edge_Cuts.gm1",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
