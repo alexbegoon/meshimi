@@ -5826,7 +5826,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32C6-p-5884.html"
 			(at 156.21 129.54 0)
 			(effects
 				(font
