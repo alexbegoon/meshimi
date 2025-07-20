@@ -11,3 +11,11 @@ Meshimi empowers your Flipper Zero with advanced mesh networking capabilities, u
 - [`software/`](software) - Flipper Zero app and configuration tools
 - [`documentation/`](documentation) - Comprehensive guides and API reference
 - [`assets/`](assets) - Logos, photos, and marketing materials
+
+## 📖 Documentation
+
+### 🛡️ Certifications
+[CE and FCC certification files](documentation/certifications) from the manufacturer or vendor are available in the `/documentation/certifications` directory for reference and compliance.
+```
+
+- [113991254-CE.pdf](documentation/certifications/113991254-CE.pdf)
