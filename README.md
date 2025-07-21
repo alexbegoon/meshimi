@@ -2,6 +2,8 @@
 
 **Open Source Multi-Protocol Wireless Module**
 
+![Meshimi](assets/Meshimi.jpg)
+
 Meshimi empowers your Flipper Zero with advanced mesh networking capabilities, utilizing Meshtastic, LoRaWAN, WiFi6 and Bluetooth protocols.
 
 ## 📁 Repository Structure
