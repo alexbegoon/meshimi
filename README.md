@@ -9,9 +9,9 @@ Meshimi empowers your Flipper Zero with advanced mesh networking capabilities, u
 ## 📁 Repository Structure
 - [`hardware/`](hardware) - PCB schematics, layouts, and production files
 - [`mechanical/`](mechanical) - 3D models, enclosures, and assembly guides
-- [`firmware/`](firmware) - Core firmware and Arduino examples
+- [`firmware/`](firmware) - Core firmware and code examples
 - [`software/`](software) - Flipper Zero app and configuration tools
-- [`documentation/`](documentation) - Comprehensive guides and API reference
+- [`documentation/`](documentation) - Documentation, guides, and certifications
 - [`assets/`](assets) - Logos, photos, and marketing materials
 
 ## 📖 Documentation

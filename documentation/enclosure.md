@@ -1,5 +1,7 @@
 ## Enclosures for the Meshimi Module
 
+![Enclosure_Demo.gif](../assets/Enclosure_Demo.gif)
+
 ### Design with built-in Antenna
 
 ![Meshimi_enclosure_with_builtin_antenna.jpg](../assets/Meshimi_enclosure_with_builtin_antenna.jpg)
