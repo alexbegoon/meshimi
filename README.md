@@ -18,6 +18,5 @@ Meshimi empowers your Flipper Zero with advanced mesh networking capabilities, u
 
 ### 🛡️ Certifications
 [CE and FCC certification files](documentation/certifications) from the manufacturer or vendor are available in the `/documentation/certifications` directory for reference and compliance.
-```
 
 - [113991254-CE.pdf](documentation/certifications/113991254-CE.pdf)
