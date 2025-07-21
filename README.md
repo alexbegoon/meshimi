@@ -19,4 +19,14 @@ Meshimi empowers your Flipper Zero with advanced mesh networking capabilities, u
 ### 🛡️ Certifications
 [CE and FCC certification files](documentation/certifications) from the manufacturer or vendor are available in the `/documentation/certifications` directory for reference and compliance.
 
-- [113991254-CE.pdf](documentation/certifications/113991254-CE.pdf)
+1. [Seeed-XIAO-ESP32C6-CE-Verification.pdf](documentation/certifications/Seeed-XIAO-ESP32C6-CE-Verification.pdf)
+
+2. [Seeed-XIAO-ESP32C6-EU-Declaration.pdf](documentation/certifications/Seeed-XIAO-ESP32C6-EU-Declaration.pdf)
+
+3. [Seeed-XIAO-ESP32C6-FCC-Declaration.pdf](documentation/certifications/Seeed-XIAO-ESP32C6-FCC-Declaration.pdf)
+
+4. [Seeed-XIAO-ESP32C6-TELEC-Certificate.pdf](documentation/certifications/Seeed-XIAO-ESP32C6-TELEC-Certificate.pdf)
+
+5. [Seeed-XIAO-ESP32C6-UK-Declaration.pdf](documentation/certifications/Seeed-XIAO-ESP32C6-UK-Declaration.pdf)
+
+6. [Seeed-XIAO-Series-RoHS-Certificate.pdf](documentation/certifications/Seeed-XIAO-Series-RoHS-Certificate.pdf)
