@@ -36,3 +36,16 @@ _Seeed XIAO ESP32-C6 module_ is used in Meshimi, which has the following certifi
 5. [Seeed-XIAO-ESP32C6-UK-Declaration.pdf](documentation/certifications/Seeed-XIAO-ESP32C6-UK-Declaration.pdf)
 
 6. [Seeed-XIAO-Series-RoHS-Certificate.pdf](documentation/certifications/Seeed-XIAO-Series-RoHS-Certificate.pdf)
+
+
+_Seeed Wio SX-1262 module_ is used in Meshimi, which has the following certifications:
+
+1. [Seeed-Wio-SX1262-EU-Declaration.pdf](documentation/certifications/Seeed-Wio-SX1262-EU-Declaration.pdf)
+
+2. [Seeed-Wio-SX1262-FCC-Authorization.pdf](documentation/certifications/Seeed-Wio-SX1262-FCC-Authorization.pdf)
+
+3. [Seeed-Wio-SX1262-RoHS-Certificate.pdf](documentation/certifications/Seeed-Wio-SX1262-RoHS-Certificate.pdf)
+
+4. [Seeed-Wio-SX1262-TELEC-Certificate.pdf](documentation/certifications/Seeed-Wio-SX1262-TELEC-Certificate.pdf)
+
+5. [Seeed-Wio-SX1262-UK-Declaration.pdf](documentation/certifications/Seeed-Wio-SX1262-UK-Declaration.pdf)
