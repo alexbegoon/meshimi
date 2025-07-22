@@ -1,0 +1,13 @@
+ADD_SCENE(meshimi, start, Start)
+ADD_SCENE(meshimi, connect, Connect)
+ADD_SCENE(meshimi, configuration, Configuration)
+ADD_SCENE(meshimi, about, About)
+ADD_SCENE(meshimi, mode, Mode)
+ADD_SCENE(meshimi, frequency, Frequency)
+// Meshtastic
+ADD_SCENE(meshimi, meshtastic_messages, MeshtasticMessages)
+ADD_SCENE(meshimi, meshtastic_network, MeshtasticNetwork)
+ADD_SCENE(meshimi, meshtastic_radio, MeshtasticRadio)
+ADD_SCENE(meshimi, meshtastic_status, MeshtasticStatus)
+ADD_SCENE(meshimi, meshtastic_new_message, MeshtasticNewMessage)
+ADD_SCENE(meshimi, meshtastic_new_message_received, MeshtasticNewMessageReceived)

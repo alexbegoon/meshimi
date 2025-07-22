@@ -1,0 +1,17 @@
+App(
+    appid="meshimi",
+    name="Meshimi",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="meshimi_app",
+    stack_size=2 * 1024,
+    icon="A_Sub1ghz_14",
+    order=20,
+    requires=["gui"],
+    fap_libs=["assets"],
+    fap_icon="icon.png",
+    fap_icon_assets="icons",
+    fap_category="GPIO",
+    fap_author="Alexander Begoon",
+    fap_description="Meshimi unlocks powerful mesh networking for your Flipper Zero combining Meshtastic, LoRaWAN and other protocols like Matter and Thread to give you rock‑solid connectivity across miles, even off‑grid.",
+    fap_weburl="https://github.com/alexbegoon/meshimi",
+)

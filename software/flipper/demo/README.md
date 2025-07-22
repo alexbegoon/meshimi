@@ -1,0 +1,3 @@
+# Meshimi
+
+Meshimi unlocks powerful mesh networking for your [Flipper Zero](https://flipperzero.one/) combining [Meshtastic](https://meshtastic.org/), [LoRaWAN](https://lora-alliance.org/about-lorawan/) and other protocols like [Matter](https://developers.home.google.com/matter/overview) and [Thread](https://www.threadgroup.org/What-is-Thread/Overview) to give you rock‑solid connectivity across miles, even off‑grid.

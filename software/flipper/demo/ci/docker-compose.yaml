@@ -1,0 +1,12 @@
+services:
+  meshtastic-builder:
+    build: .
+    devices:
+      - "${USB_DEVICE}:/dev/ttyUSB0"
+    volumes:
+      - /Users/alex/Work/Code/meshtastic/firmware:/tmp/firmware
+    working_dir: /tmp/firmware
+    stdin_open: true
+    tty: true
+    network_mode: bridge
+    privileged: true
