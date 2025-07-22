@@ -4,7 +4,7 @@ services:
     devices:
       - "${USB_DEVICE}:/dev/ttyUSB0"
     volumes:
-      - /Users/alex/Work/Code/meshtastic/firmware:/tmp/firmware
+      - "${MESHTASTIC_FIRMWARE_PATH}:/tmp/firmware"
     working_dir: /tmp/firmware
     stdin_open: true
     tty: true
