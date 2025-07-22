@@ -1,0 +1,5 @@
+.idea
+/compile_commands.json
+cmake-*
+/ci/.env
+.env
