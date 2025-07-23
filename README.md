@@ -1,10 +1,16 @@
-# Meshimi
+<div align="center" markdown="1">
 
-**Open Source Multi-Protocol Wireless Module**
+<h1>Meshimi</h1>
+
+<b>Open Hardware & Open Source Multi-Protocol Wireless Module</b>
+
+</div>
 
 ![Meshimi](assets/Meshimi.jpg)
 
 Meshimi empowers your Flipper Zero with advanced mesh networking capabilities, utilizing Meshtastic, LoRaWAN, WiFi6 and Bluetooth protocols.
+
+[![Kickstarter](https://img.shields.io/badge/Kickstarter-Back%20Us-orange?style=for-the-badge&logo=kickstarter)](https://www.kickstarter.com/projects/begoon/1163218501?ref=45xpmi&token=e01b4f6c)
 
 ## 📁 Repository Structure
 - [`hardware/`](hardware) - PCB schematics, layouts, and production files
